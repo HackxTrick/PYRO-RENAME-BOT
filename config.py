@@ -86,7 +86,7 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 Mʏ ʟᴏᴠᴇ ᴀᴋᴀɴᴇ 🥺
 
-    PROGRESS_BAR = """<b>\n
+    PROGRESS_BAR = """<b>\n"""
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
 ┣⪼ 🗃️ Sɪᴢᴇ: {1} | {2}
 ┣⪼ ⏳️ Dᴏɴᴇ : {0}%
